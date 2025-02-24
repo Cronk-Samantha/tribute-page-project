@@ -38,3 +38,13 @@
     background-color: transparent;
     padding-bottom: 20px;
 }
+
+.section2 h3 {
+    text-align: center;
+    padding: 2rem;
+}
+
+.section2 {
+    width: 50%;
+    margin: auto;
+}

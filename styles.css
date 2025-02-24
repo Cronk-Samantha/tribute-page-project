@@ -48,3 +48,12 @@
     width: 50%;
     margin: auto;
 }
+
+#tribute-info li {
+    margin: 2em;
+    line-height: 1.5;
+}
+
+li strong {
+    font-size: 18px;
+}
